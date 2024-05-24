@@ -1,0 +1,14 @@
+git+https://github.com/Aralocke/PyMonitorLib
+beautifulsoup4==4.12.3
+certifi==2024.2.2
+charset-normalizer==3.3.2
+idna==3.7
+influxdb-client==1.42.0
+python-dateutil==2.9.0.post0
+reactivex==4.0.4
+requests==2.32.2
+setuptools==69.5.1
+six==1.16.0
+soupsieve==2.5
+typing_extensions==4.11.0
+urllib3==2.2.1
